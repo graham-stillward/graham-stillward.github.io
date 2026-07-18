@@ -1,0 +1,4 @@
+# Pinned to the version the site was built and tested with.
+# (The MkDocs/Material ecosystem is going through a breaking 2.0 transition
+# in 2026 — keeping this pinned means the site keeps building identically.)
+mkdocs-material==9.7.6
