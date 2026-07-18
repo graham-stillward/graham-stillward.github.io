@@ -12,7 +12,7 @@ theme:
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: brown
+      primary: black
       accent: deep orange
       toggle:
         icon: material/weather-night
