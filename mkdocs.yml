@@ -6,6 +6,8 @@ site_description: Essays and commentary
 
 theme:
   name: material
+  logo: assets/lapillus-mark.svg
+  favicon: assets/lapillus-favicon.svg
   palette:
     # Light mode
     - media: "(prefers-color-scheme: light)"
